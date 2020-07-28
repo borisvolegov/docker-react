@@ -16,9 +16,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn react
         </a>
       </header>
+      <p>
+        I was changed on the Feature branch
+      </p>
     </div>
   );
 }
